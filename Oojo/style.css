@@ -1,4 +1,4 @@
-section{
+.section{
     background-image: url(./img/bgc.png);
 }
 .section{
@@ -62,7 +62,7 @@ img{
     left: 1291px;
     top: 41px;
 }
-.img6{
+.img5{
     position: absolute;
     width: 1110px;
     height: 60px;
@@ -134,4 +134,184 @@ hr{
     height: 20px;
     left: 1550px;
     top: 42px;
+}
+.section2{
+    position: absolute;
+    width: 1110px;
+    height: 851px;
+    left: 405px;
+    top: 1081px;
+    
+    flex-direction: column;
+}
+.header1{
+    position: absolute;
+    width: 350px;
+    height: 29px;
+    left: 510px;
+    top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 140%;
+    font-size: 21px;
+    color:#333333;
+   }
+   .text1{
+       position: absolute;
+       width: 540px;
+       height: 41px;
+       left: 330px;
+       top: 55px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-style: normal;
+       font-weight: bold;
+       font-size: 30px;
+       line-height: 41px;
+       text-align: center;
+       color: #333333;
+   }
+   .button7{
+       position: absolute;
+       width: 165px;
+       height: 61px;
+       left: -20px;
+       top: 140px;
+       filter: drop-shadow(0px, 4px, 4px, rgba(0, 0, 0, 0.25));
+       color: white;
+       font-style: normal;
+       font-family: 'Courier New', Courier, monospace;
+       font-style: normal;
+       line-height: 21px;
+       text-align: center;
+       text-transform: uppercase;
+       background: #333333;
+       letter-spacing: 0.1em;
+   }
+   .button8{
+    position: absolute;
+    width: 165px;
+    height: 61px;
+    left: 165px;
+    top: 140px;
+    color: #333333;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 0.1em;
+    background: white;
+    border: 1px solid gray;
+   }
+   .button9{
+    position: absolute;
+    width: 165px;
+    height: 61px;
+    left: 355px;
+    top: 140px;
+    color: #333333;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 0.1em;
+    background: white;
+    border: 1px solid gray;
+   }
+   .button10{
+    position: absolute;
+    width: 165px;
+    height: 61px;
+    left: 543px;
+    top: 140px;
+    color: #333333;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 0.1em;
+    background: white;
+    border: 1px solid gray;
+   }
+   .button11{
+    position: absolute;
+    width: 165px;
+    height: 61px;
+    left: 732px;
+    top: 140px;
+    color: #333333;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 0.1em;
+    background: white;
+    border: 1px solid gray;
+   }
+   .button12{
+    position: absolute;
+    width: 165px;
+    height: 61px;
+    left: 925px;
+    top: 140px;
+    color: #333333;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    line-height: 21px;
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 0.1em;
+    background: white;
+    border: 1px solid gray;
+   }
+   .img6{
+       position: absolute;
+       width: 350px;
+       height: 280px;
+       left: 0px;
+       top: 240px;
+   }
+   .img7{
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    left: 380px;
+    top: 240px;  
+   }
+   .img8{
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    left: 759px;
+    top: 240px;
+}
+.img9{
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    left: 0px;
+    top: 540px;
+}
+.img10{
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    left: 380px;
+    top: 540px;
+}
+.img11{
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    left: 759px;
+    top: 540px;
 }
