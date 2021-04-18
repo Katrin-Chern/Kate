@@ -449,3 +449,77 @@ hr{
     font-style: normal;
     font-size: 17px;
 }
+.section5{
+    position: absolute;
+    width: 1110px;
+    height: 745px;
+    left: 405px;
+    top: 3428px;
+}
+.header3{
+    position: absolute;
+    width: 350px;
+    left: 395px;
+    top: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 140%;
+    font-style: normal;
+    font-weight: normal;
+}
+.text6{
+    position: absolute;
+    width: 1110px;
+    left: 0px;
+    top: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 41px;
+    color: #333333;
+    font-style: normal;
+    font-size: 30px;
+}
+.img15{
+    position: absolute;
+    width: 555px;
+    height: 300px;
+    left:0px;
+    top: 143px;
+}
+.img16{
+    position: absolute;
+    width: 278px;
+    height: 300px;
+    left: 555px;
+    top: 143px;
+}
+.img17{
+    position: absolute;
+    width: 278px;
+    height: 300px;
+    left:833px;
+    top: 143px;
+}
+.img18{
+    position: absolute;
+    width: 278px;
+    height: 300px;
+    left:0px;
+    top: 443px;
+}
+.img19{
+    position: absolute;
+    width: 277px;
+    height: 300px;
+    left:278px;
+    top: 443px;
+}
+.img20{
+    position: absolute;
+    width: 555px;
+    height: 300px;
+    left: 555px;
+    top: 443px;
+}
