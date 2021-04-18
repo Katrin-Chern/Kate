@@ -370,11 +370,82 @@ hr{
     background: white;
     border: 1px solid #333333;
     box-sizing: border-box;
-    font-size: 17px;
+    font-size: 17spx;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 500;
     line-height: 21px;
     text-align: center;
     letter-spacing: 0.1em;
     text-transform: uppercase;
+}
+.section4{
+    position: absolute;
+    width: 1110px;
+    height: 626px;
+    left: 405px;
+    top: 2682px;
+}
+.header2{
+    position: absolute;
+    width: 350px;
+    left: 385px;
+    top: 5px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 140%;
+    color: #333333;
+}
+.text5{
+    position: absolute;
+    width: 1110px;
+    left: 0px;
+    top: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #333333;
+}
+.img12{
+    position: absolute;
+    width: 350px;
+    height: 370px;
+    left: 0px;
+    top: 150px;
+}
+.img13{
+    position: absolute;
+    width: 350px;
+    height: 370px;
+    left: 380px;
+    top: 150px;
+}
+.img14{
+    position: absolute;
+    width: 350px;
+    height: 370px;
+    left: 760px;
+    top: 150px;
+}
+.button13{
+    display: flex;
+    flex-direction: row;
+    padding: 15px 35px;
+    top: 574px;
+    position: absolute;
+    width: 255px;
+    height: 51px;
+    left: 400px;
+    background-color: #333333;
+    border: 1px solid white;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 17px;
 }
