@@ -370,7 +370,7 @@ hr{
     background: white;
     border: 1px solid #333333;
     box-sizing: border-box;
-    font-size: 17spx;
+    font-size: 17px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 500;
     line-height: 21px;
@@ -522,4 +522,142 @@ hr{
     height: 300px;
     left: 555px;
     top: 443px;
+}
+.section6{
+    position: absolute;
+    width: 1920px;
+    height: 478px;
+    left: 0;
+    top: 4323px;
+    background-color: black;
+}
+.text7{
+    position: absolute;
+    width: 920px;
+    left: 500px;
+    top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 140px;
+    text-align: center;
+    color: white;
+}
+.text8{
+    position: absolute;
+    width: 1110px;
+    left: 405px;
+    top: 130px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: white;
+}
+.img21{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 555px;
+    top: 230px;
+}
+.img22{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 555px;
+    top: 273px;
+}
+.img23{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 555px;
+    top: 316px;
+}
+.text9{
+    position: absolute;
+    width: 155px;
+    height: 25px;
+    left: 592px;
+    top: 230px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: white;
+}
+.text10{
+    position: absolute;
+    width: 185px;
+    height: 25px;
+    left: 592px;
+    top: 273px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: white;
+}
+.text11{
+    position: absolute;
+    width: 195px;
+    height: 25px;
+    left: 592px;
+    top: 316px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: white;
+}
+.form{
+    position: absolute;
+    width: 418px;
+    height: 93px;
+    left: 880px;
+    top: 240px;
+    border: 1px solid white;
+    background: white;
+    box-sizing: border-box;
+    border: 1px solid white;
+}
+.button14{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px 35px;
+    position: absolute;
+    width: 145px;
+    height: 45px;
+    border: 1px solid white;
+    box-sizing: border-box;
+    left: 230px;
+    background-color: black;
+    top: 18px;
+}
+input{
+    position: absolute;
+    background-color:white;
+    border: 1px solid #d6d6d6;
+    width: 200px;
+    height: 45px;
+    left: 8px;
+    align-items: center;
+    top: 18px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;  
+    color: rgba(0, 0, 0, 0.5);
 }
