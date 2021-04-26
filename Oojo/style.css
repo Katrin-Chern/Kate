@@ -204,6 +204,8 @@ hr{
     letter-spacing: 0.1em;
     background: white;
     border: 1px solid gray;
+    box-shadow: 5px 5px rgba(206, 206, 206, 0.582);
+    
    }
    .button9{
     position: absolute;
@@ -221,6 +223,7 @@ hr{
     letter-spacing: 0.1em;
     background: white;
     border: 1px solid gray;
+    box-shadow: 5px 5px rgba(206, 206, 206, 0.582);
    }
    .button10{
     position: absolute;
@@ -238,6 +241,7 @@ hr{
     letter-spacing: 0.1em;
     background: white;
     border: 1px solid gray;
+    box-shadow: 5px 5px rgba(206, 206, 206, 0.582);
    }
    .button11{
     position: absolute;
@@ -255,6 +259,7 @@ hr{
     letter-spacing: 0.1em;
     background: white;
     border: 1px solid gray;
+    box-shadow: 5px 5px rgba(206, 206, 206, 0.582);
    }
    .button12{
     position: absolute;
@@ -272,6 +277,7 @@ hr{
     letter-spacing: 0.1em;
     background: white;
     border: 1px solid gray;
+    box-shadow: 5px 5px rgba(206, 206, 206, 0.582);
    }
    .img6{
        position: absolute;
@@ -357,7 +363,7 @@ hr{
     line-height: 180%;
     text-align: center;
 }
-.button12{
+.button13{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -377,6 +383,7 @@ hr{
     text-align: center;
     letter-spacing: 0.1em;
     text-transform: uppercase;
+    color: #333333;
 }
 .section4{
     position: absolute;
@@ -430,7 +437,7 @@ hr{
     left: 760px;
     top: 150px;
 }
-.button13{
+.button14{
     display: flex;
     flex-direction: row;
     padding: 15px 35px;
@@ -622,13 +629,13 @@ hr{
     width: 418px;
     height: 93px;
     left: 880px;
-    top: 240px;
+    top: 24px;
     border: 1px solid white;
     background: white;
     box-sizing: border-box;
     border: 1px solid white;
 }
-.button14{
+.button15{
     display: flex;
     flex-direction: row;
     align-items: center;
